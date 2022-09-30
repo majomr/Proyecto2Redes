@@ -1,9 +1,9 @@
 # Love Letter Game
 
 ## Developers:
-### Maria Jose Morales 
-### Alejandra Gudiel
-### Marisa Montoya
+* Maria Jose Morales 
+* Alejandra Gudiel
+* Marisa Montoya
 
 ## How to use?
 Run in different terminal
